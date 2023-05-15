@@ -1,0 +1,23 @@
+*{
+    
+    font-family: 'Nothing You Could Do', cursive;
+}
+
+#intro{
+    background-image: url(img/way.jpg);
+    
+}
+
+#kontakt{
+    background-image: url(img/snow.jpg);
+    height: 300px; 
+    
+}
+
+@media (min-width: 576px){
+    #intro{
+        height: 600px;
+    }
+
+    
+}
