@@ -1,8 +1,2 @@
-MDB5
-Version: FREE 4.1.0
-
-Documentation:
-https://mdbootstrap.com/docs/standard/
-
-Contact:
-office@mdbootstrap.com
+My first bootstrap page written for a film foundation.
+Unfortunately, due to the large amount of material to be processed related to accessibility, the implementation of the website finally did not take place
